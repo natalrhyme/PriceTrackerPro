@@ -1,6 +1,7 @@
 # PriceWatch 🔍
 
 A modern web application for tracking product prices from popular e-commerce platforms. Get notified when prices drop to your target price!
+![](1.gif)
 
 ## Features ✨
 
